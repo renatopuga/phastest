@@ -28,6 +28,6 @@ mv DB phastest/phastest-app-docker/
 
 ### Run (teste)
 ```bash
-cd phastest/phastest-docker/phastest_inputs
+cd phastest/phastest_inputs
 docker compose run phastest -i fasta -s seq_test.fna
 ```
