@@ -23,7 +23,7 @@ unzip phastest-docker.zip
 
 ### mover DB para 
 ```bash
-mv DB phastest-app-docker/
+mv DB phastest/phastest-app-docker/
 ```
 
 ### Run (teste)
